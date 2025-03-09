@@ -25,7 +25,6 @@ const calculator = (operator, num1, num2) => {
     return result;
 };
 
-// **Contoh penggunaan**
 console.log(calculator('+', 5, 12));   
 console.log(calculator('-', 20, 15));  
 console.log(calculator('*', 2, 8));  
